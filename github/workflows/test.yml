@@ -1,7 +1,8 @@
 """Скрипт для запуска теста в CI и сохраняет в github в actions
-В терминале используем команды Git. Сначала git add . 
+В терминале используем команды Git. 
+ - Сначала git add . 
  - git commit -m " " 
- - git push
+ - git push origin main
  - смотрим в github"""
 
 
