@@ -1,0 +1,5 @@
+#allure
+tests/allure-results
+# Idea
+.idea
+venv
